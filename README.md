@@ -39,7 +39,7 @@ We recommend you start with the ``demo.ipynb`` file to familiarize yourself with
 ### Docker
 To run ``demo.ipynb`` you can use the following command
 ```
-docker run -p 8080:8080 stacy8popova/py_gbs_th
+docker run -p 8080:8080 stacy8popova/py_gbs_thr
 ```
 To run ``start_up.ipynb`` you can insert
 ```
