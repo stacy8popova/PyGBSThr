@@ -1,13 +1,13 @@
 
 # PyGBSThr 
----
+
 ``PyGBSTr`` is a python software that solves Gaussian Boson Sampling problem (threshold detection, without losses and noise) using the [A.S. Popova and A.N. Rubtsov method](https://arxiv.org/abs/2106.01445). 
 ``PyGBSTr`` contains both the exact calculation and the approximate approach.    
 
 This project consists of two main parts: visual demonstration of our method on a small problem in ``demo.ipynb`` and the optimized realization of the approach for random matrices in  ``start_up.py``.
 
 # Installation 
----
+
 To install ``PyGBSTr`` you can download [Docker  Desktop](https://www.docker.com/get-started) to use our code more easily. 
 If you would not like to use Docker, you also could follow the instructions below.
 
@@ -32,7 +32,7 @@ To run ``start_up.ipynb`` you need to install``g++`` compiler, ``Python 3`` and 
 
 
 # Usage 
----
+
 
 We recommend you start with the ``demo.ipynb`` file to familiarize yourself with our method. It represents all meaningful steps of the computation using the small 8-mode GBS problem. To advanced use ``PyGBSTr`` the ``start_up.py`` file was made. 
 
@@ -106,7 +106,7 @@ and files in the directory ``\in_out``
 
 
 # Support 
----
+
 
 Please, don't hesitate to share your suggestions, comments or critics with the authors and send them to a.popova@rqc.ru.
 
@@ -115,5 +115,5 @@ There are the range of parameters, where your code performs the best. At the sam
 In ``demo.ipynb`` and ``start_up.py`` you can find some comments after ``#`` about meaning of a specific part of the code and ways to improve it. 
 
 # Acknowledgments
----
+
 We appreciate the [Xanadu](https://www.xanadu.ai/) team for the free and open-source libraries that enabled us to benchmark our method.
