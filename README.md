@@ -57,7 +57,7 @@ docker run -it -v %cd%:/home/devel/in_out stacy8popova/py_gbs_thr python3 ./star
 ```
 for Windows command line (Cmd.exe).
 
-### For Linux
+### Linux
 
 To run ``start_up.py`` you need to insert in a command line
 
