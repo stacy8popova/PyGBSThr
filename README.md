@@ -108,7 +108,7 @@ and files in the directory ``\in_out``
 # Support 
 
 
-Please, don't hesitate to share your suggestions, comments or critics with the authors and send them to a.popova@rqc.ru.
+Please, don't hesitate to share your suggestions, comments or critics with the authors and send it to a.popova@rqc.ru.
 
 ### Warning
 There are the range of parameters, where our code performs the best. At the same time, we think that this version can be improved to obtain stabler result of a wider range of parameters.
